@@ -1,3 +1,3 @@
-# Excel Project on BikeSales
+# Analysis on BikeSales
 
-##Bike Sales rates in the countries in America and Europe ##
+##Bike Sales rates in the countries in America and Europe
