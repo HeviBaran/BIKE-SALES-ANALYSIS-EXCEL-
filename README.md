@@ -13,4 +13,3 @@ The analysis shows the main and sub categories of the bike sales and also the co
 
 
 
-![IMG_E5039](https://user-images.githubusercontent.com/121649408/210189204-f0da6d5b-3401-4140-91a1-a09f094e5e80.JPG)
