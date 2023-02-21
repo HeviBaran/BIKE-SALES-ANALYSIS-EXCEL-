@@ -1,4 +1,4 @@
-# BikeSales Analysis
+# Bike Sales Analysis
 
 
 ## Data Cleaning
