@@ -13,47 +13,47 @@ The analysis shows the main and sub categories of the bike sales and also the co
 
 .
 
-<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-1.png"><img align="left" width="auto" height="auto" src=https://github.com/HeviBaran/bikeSales/blob/main/P-1.png"></a>
+<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-1.png"><img align="left" width="auto" height="auto" src="https://github.com/HeviBaran/bikeSales/blob/main/P-1.png"></a>
 
 .
 
-<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-2.png"><img align="left" width="auto" height="auto" src=https://github.com/HeviBaran/bikeSales/blob/main/P-2.png"></a>
+<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-2.png"><img align="left" width="auto" height="auto" src="https://github.com/HeviBaran/bikeSales/blob/main/P-2.png"></a>
 
 .
 
-<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-3.png"><img align="left" width="auto" height="auto" src=https://github.com/HeviBaran/bikeSales/blob/main/P-3.png"></a>
+<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-3.png"><img align="left" width="auto" height="auto" src="https://github.com/HeviBaran/bikeSales/blob/main/P-3.png"></a>
 
 .
 
-<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-4.png"><img align="left" width="auto" height="auto" src=https://github.com/HeviBaran/bikeSales/blob/main/P-5.png"></a>
+<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-4.png"><img align="left" width="auto" height="auto" src="https://github.com/HeviBaran/bikeSales/blob/main/P-5.png"></a>
 
 .
 
-<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-6.png"><img align="left" width="auto" height="auto" src=https://github.com/HeviBaran/bikeSales/blob/main/P-6.png"></a>
+<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-6.png"><img align="left" width="auto" height="auto" src="https://github.com/HeviBaran/bikeSales/blob/main/P-6.png"></a>
 
 .
 
-<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-7.png"><img align="left" width="auto" height="auto" src=https://github.com/HeviBaran/bikeSales/blob/main/P-7.png"></a>
+<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-7.png"><img align="left" width="auto" height="auto" src="https://github.com/HeviBaran/bikeSales/blob/main/P-7.png"></a>
 
 .
 
 
-<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-8.png"><img align="left" width="auto" height="auto" src=https://github.com/HeviBaran/bikeSales/blob/main/P-8.png"></a>
+<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-8.png"><img align="left" width="auto" height="auto" src="https://github.com/HeviBaran/bikeSales/blob/main/P-8.png"></a>
 
 .
 
-<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-9.png"><img align="left" width="auto" height="auto" src=https://github.com/HeviBaran/bikeSales/blob/main/P-9.png"></a>
+<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-9.png"><img align="left" width="auto" height="auto" src="https://github.com/HeviBaran/bikeSales/blob/main/P-9.png"></a>
 
 .
 
-<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-10.png"><img align="left" width="auto" height="auto" src=https://github.com/HeviBaran/bikeSales/blob/main/P-10.png"></a>
+<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-10.png"><img align="left" width="auto" height="auto" src="https://github.com/HeviBaran/bikeSales/blob/main/P-10.png"></a>
 
 .
 
-<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-11.png"><img align="left" width="auto" height="auto" src=https://github.com/HeviBaran/bikeSales/blob/main/P-11.png"></a>
+<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-11.png"><img align="left" width="auto" height="auto" src="https://github.com/HeviBaran/bikeSales/blob/main/P-11.png"></a>
 
 .
 
-<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-12.png"><img align="left" width="auto" height="auto" src=https://github.com/HeviBaran/bikeSales/blob/main/P-12.png"></a>
+<a href="https://github.com/HeviBaran/bikeSales/blob/main/P-12.png"><img align="left" width="auto" height="auto" src="https://github.com/HeviBaran/bikeSales/blob/main/P-12.png"></a>
 
 .
